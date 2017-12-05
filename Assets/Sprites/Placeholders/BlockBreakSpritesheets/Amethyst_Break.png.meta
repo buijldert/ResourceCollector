@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: f580c5d99c9f8f144982aab2783800fc
+timeCreated: 1507278397
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Amethyst_Block_0
+    21300002: Amethyst_Block_1
+    21300004: Amethyst_Block_2
+    21300006: Amethyst_Block_3
+    21300008: Amethyst_Block_4
+    21300010: Amethyst_Block_5
+    21300012: Amethyst_Block_6
+    21300014: Amethyst_Block_7
+    21300016: Amethyst_Block_8
+    21300018: Amethyst_Block_9
+    21300020: Amethyst_Block_10
+    21300022: Amethyst_Block_11
+    21300024: Amethyst_Block_12
+    21300026: Amethyst_Block_13
+    21300028: Amethyst_Block_14
+    21300030: Amethyst_Block_15
+    21300032: Amethyst_Block_16
+    21300034: Amethyst_Block_17
+    21300036: Amethyst_Block_18
+    21300038: Amethyst_Block_19
+    21300040: Amethyst_Block_20
+    21300042: Amethyst_Block_21
+    21300044: Amethyst_Block_22
+    21300046: Amethyst_Block_23
+    21300048: Amethyst_Block_24
+    21300050: Amethyst_Block_25
+    21300052: Amethyst_Block_26
+    21300054: Amethyst_Block_27
+    21300056: Amethyst_Block_28
+    21300058: Amethyst_Block_29
+    21300060: Amethyst_Block_30
+    21300062: Amethyst_Block_31
+    21300064: Amethyst_Block_32
+    21300066: Amethyst_Block_33
+    21300068: Amethyst_Block_34
+    21300070: Amethyst_Block_35
+    21300072: Amethyst_Block_36
+    21300074: Amethyst_Block_37
+    21300076: Amethyst_Block_38
+    21300078: Amethyst_Block_39
+    21300080: Amethyst_Block_40
+    21300082: Amethyst_Block_41
+    21300084: Amethyst_Block_42
+    21300086: Amethyst_Block_43
+    21300088: Amethyst_Block_44
+    21300090: Amethyst_Block_45
+    21300092: Amethyst_Block_46
+    21300094: Amethyst_Block_47
+    21300096: Amethyst_Block_48
+    21300098: Amethyst_Block_49
+    21300100: Amethyst_Block_50
+    21300102: Amethyst_Block_51
+    21300104: Amethyst_Block_52
+    21300106: Amethyst_Block_53
+    21300108: Amethyst_Block_54
+    21300110: Amethyst_Block_55
+    21300112: Amethyst_Block_56
+    21300114: Amethyst_Block_57
+    21300116: Amethyst_Block_58
+    21300118: Amethyst_Block_59
+    21300120: Amethyst_Block_60
+    21300122: Amethyst_Block_61
+    21300124: Amethyst_Block_62
+    21300126: Amethyst_Block_63
+    21300128: Amethyst_Block_64
+    21300130: Amethyst_Block_65
+    21300132: Amethyst_Block_66
+    21300134: Amethyst_Block_67
+    21300136: Amethyst_Block_68
+    21300138: Amethyst_Block_69
+    21300140: Amethyst_Block_70
+    21300142: Amethyst_Block_71
+    21300144: Amethyst_Block_72
+    21300146: Amethyst_Block_73
+    21300148: Amethyst_Block_74
+    21300150: Amethyst_Block_75
+    21300152: Amethyst_Block_76
+    21300154: Amethyst_Block_77
+    21300156: Amethyst_Block_78
+    21300158: Amethyst_Block_79
+    21300160: Amethyst_Block_80
+    21300162: Amethyst_Block_81
+    21300164: Amethyst_Block_82
+    21300166: Amethyst_Block_83
+    21300168: Amethyst_Block_84
+    21300170: Amethyst_Block_85
+    21300172: Amethyst_Block_86
+    21300174: Amethyst_Block_87
+    21300176: Amethyst_Block_88
+    21300178: Amethyst_Block_89
+    21300180: Amethyst_Block_90
+    21300182: Amethyst_Block_91
+    21300184: Amethyst_Block_92
+    21300186: Amethyst_Block_93
+    21300188: Amethyst_Block_94
+    21300190: Amethyst_Block_95
+    21300192: Amethyst_Block_96
+    21300194: Amethyst_Block_97
+    21300196: Amethyst_Block_98
+    21300198: Amethyst_Block_99
+    21300200: Amethyst_Spritesheet_0
+    21300202: Amethyst_Spritesheet_1
+    21300204: Amethyst_Spritesheet_2
+    21300206: Amethyst_Spritesheet_3
+    21300208: Amethyst_Spritesheet_4
+    21300210: Amethyst_Spritesheet_5
+    21300212: Amethyst_Spritesheet_6
+    21300214: Amethyst_Spritesheet_7
+    21300216: Amethyst_Spritesheet_8
+    21300218: Amethyst_Spritesheet_9
+    21300220: Amethyst_Spritesheet_10
+    21300222: Amethyst_Spritesheet_11
+    21300224: Amethyst_Spritesheet_12
+    21300226: Amethyst_Spritesheet_13
+    21300228: Amethyst_Spritesheet_14
+    21300230: Amethyst_Spritesheet_15
+    21300232: Amethyst_Spritesheet_16
+    21300234: Amethyst_Spritesheet_17
+    21300236: Amethyst_Spritesheet_18
+    21300238: Amethyst_Spritesheet_19
+    21300240: Amethyst_Spritesheet_20
+    21300242: Amethyst_Spritesheet_21
+    21300244: Amethyst_Spritesheet_22
+    21300246: Amethyst_Spritesheet_23
+    21300248: Amethyst_Spritesheet_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amethyst_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: Placeholder
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
